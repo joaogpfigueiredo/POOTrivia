@@ -1,0 +1,25 @@
+Artes / 5 / Quem é o pintor renascentista italiano famoso por obras como "A Última Ceia" e "Mona Lisa"? / Leonardo da Vinci / Pablo Picasso / Michelangelo / Vincent van Gogh / Salvador Dali
+Artes / 5 / Qual movimento artístico foi caracterizado por formas geométricas abstratas e uso de cores primárias? / Surrealismo / Barroco / Cubismo / Renascimento / Pop Art
+Artes / 5 / Quem é o autor da escultura iconica "O Pensador", representando um homem em profundo pensamento? / Auguste Rodin / Donatello / Gian Lorenzo Bernini / Constantin Brâncuși / Michelangelo
+Artes / 5 / Qual é a técnica de pintura que utiliza água e pigmentos sobre papel, criando obras delicadas e transparentes? / Aquarela / Óleo sobre tela / Guache / Tempera / Tinta da china
+Artes / 5 / Quem é considerado um dos pioneiros do movimento surrealista e é conhecido por suas pinturas oníricas, como "A Persistência da Memória"? / Salvador Dalí / Jackson Pollock / Frida Kahlo / Henri Matisse / Pablo Picasso
+Natação / 5 / Tradicionalmente, as piscinas olímpicas tinham 8 pistas / Verdadeiro / Falso
+Natação / 5 / As provas de natação podem ser de 50, 100, 200, 400, 800, 1600 metros. / Falso / Verdadeiro
+Natação / 5 / Léon Marchand quebrou o record de Michael Phelps nos 800 metros individuais. / Falso / Verdadeiro
+Natação / 5 / O estilo mais comum de natação em estilo livre é o crawl. / Verdadeiro / Falso
+Natação / 5 / César Cielo detem o recorde de estilo livre em 50 metros desde 2009. / Verdadeiro / Falso
+Ski / 5 / O recorde do salto mais longo de ski foi de 253,5 metros. / Verdadeiro / Falso
+Ski / 5 / Suiça é o país com mais medalhas de ski. / Falso / Verdadeiro
+Ski / 5 / A velocidade recorde atingida no estilo speed skiing foi de 250 km/h. / Verdadeiro / Falso
+Ski / 5 / O pais com mais resorts de ski é a Suiça. / Falso / Verdadeiro
+Ski / 5 / As pistas de ski com maior grau de dificuldade são marcadas por dois losangos pretos. / Verdadeiro / Falso
+Futebol / 5 / Qual o nome ou o numero do jogador com mais bolas de ouro do mundo? / Lionel Messi / Cristiano Ronaldo / Neymar / Benzema / Luis Suarez / 10 / 7 / 9 / 11 / 8
+Futebol / 5 / Qual o nome ou numero do maior goleador da história do futebol? / Cristiano Ronaldo / Lionel Messi / Zlatan Ibrahimovic / Luis Suarez / Iniesta / 7 / 9 / 10 / 8 / 13
+Futebol / 5 / Qual o numero ou nome do jogador com a transferência mais cara da história do futebol? / Neymar / Mbappé / Maguire / Bellingham / João Félix / 10 / 7 / 5 / 6 / 11
+Futebol / 5 / Qual o numero ou nome do jogador que ganhou o troféu Kopa em 2023? / Bellingham / Musiala / Gavi / António Silva / João Neves / 5 / 10 / 3 / 12 / 9
+Futebol / 5 / Qual o nome ou numero do jogador que venceu a bola de ouro em 2007? / Kaká / Cristiano Ronaldo / Lionel Messi / Drogba / Iniesta / 22 / 14 / 7 / 2 / 5
+Ciências / 5 / Há quantos anos se estima que o Homo Sapiens surgiu? / 200000 anos / 100000 anos / 50000 anos / 75000 anos / 25000 anos / 210000 anos / 215000 anos / 205000 anos / 195000 anos
+Ciências / 5 / Qual o simbolo do elemento mercúrio? / Hg / Ag / He / O / C / Me / Mr / Ha / Hh
+Ciências / 5 / Qual o nome do projeto que desenvolveu a primeira bomba atómica? / Manhattan / Chicago / Atómic / Nuclear / ABomb / Trinity / Los Alamos / Crossroads / Teapot
+Ciências / 5 / Quem desenvolveu a teoria da relatividade? / Einstein / Marie Curie / Newton / Pitágoras / Descartes / Oppenheimer / Stephen Hawking / Bohr / Thomas Edison
+Ciências / 5 / Quantas luas tem saturno? / 146 / 10 / 11 / 15 / 9 / 145 / 144 / 147 / 150

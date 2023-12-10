@@ -1,0 +1,6 @@
+pootrivia_jogo_202312091855_JP.obj
+pootrivia_jogo_202312091856_JF.obj
+pootrivia_jogo_202312091856_GF.obj
+pootrivia_jogo_202312091857_DF.obj
+pootrivia_jogo_202312091857_RO.obj
+pootrivia_jogo_202312091857_TM.obj
